@@ -1,0 +1,21 @@
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Rizzle.exe
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Rizzle.pdb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\obj\x86\Debug\Rizzle.csprojResolveAssemblyReference.cache
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\obj\x86\Debug\Rizzle.exe
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\obj\x86\Debug\Rizzle.pdb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\grass.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\path.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\ennemi basic.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\basicTower.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\grass.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\path.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\ennemi basic.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\basicTower.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Rizzle.exe
+\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Rizzle.pdb
+\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\obj\x86\Debug\Rizzle.exe
+\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\obj\x86\Debug\Rizzle.pdb
+\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\arbre.xnb

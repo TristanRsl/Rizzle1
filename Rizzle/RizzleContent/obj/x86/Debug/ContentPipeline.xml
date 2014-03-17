@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>grass.png</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2014-02-13T18:40:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>path.png</Source>
+      <Name>path</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\path.xnb</Output>
+      <Time>2014-02-13T18:40:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>001_indestructable_atlas.png</Source>
+      <Name>ennemi basic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\ennemi basic.xnb</Output>
+      <Time>2014-02-23T11:19:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>basicTower.png</Source>
+      <Name>basicTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\basicTower.xnb</Output>
+      <Time>2014-02-24T17:37:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>arbre.png</Source>
+      <Name>arbre</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\arbre.xnb</Output>
+      <Time>2014-02-24T21:49:31+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\RizzleContent\</RootDirectory>
+      <LoggerRootDirectory>\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\</LoggerRootDirectory>
+      <IntermediateDirectory>\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\RizzleContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\vmware-host\Shared Folders\Bureau\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-12-13T10:54:08.8772035+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
