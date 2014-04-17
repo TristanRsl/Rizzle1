@@ -1,0 +1,2 @@
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\RizzleContent\obj\x86\Debug\RizzleContent.contentprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\RizzleContent\obj\x86\Debug\ResolveAssemblyReference.cache

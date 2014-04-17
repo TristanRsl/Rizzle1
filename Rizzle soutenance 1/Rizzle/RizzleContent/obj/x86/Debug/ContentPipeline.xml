@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Write.spritefont</Source>
+      <Name>Write</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\Write.xnb</Output>
+      <Time>2014-03-10T03:47:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.spritefont</Source>
+      <Name>GameOver</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\GameOver.xnb</Output>
+      <Time>2014-03-10T22:50:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>000_shadow_atlas.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2014-03-09T19:22:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>select.png</Source>
+      <Name>select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\select.xnb</Output>
+      <Time>2014-03-09T22:03:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gold.png</Source>
+      <Name>gold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\gold.xnb</Output>
+      <Time>2014-03-09T22:51:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>basicEnnemi.png</Source>
+      <Name>basicEnnemi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\basicEnnemi.xnb</Output>
+      <Time>2014-03-09T22:59:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.png</Source>
+      <Name>MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\MainMenu.xnb</Output>
+      <Time>2014-03-10T01:14:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tourelle3.png</Source>
+      <Name>basicTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\basicTower.xnb</Output>
+      <Time>2014-03-10T01:44:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>phototristan.png</Source>
+      <Name>bouton power tourelle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\bouton power tourelle.xnb</Output>
+      <Time>2014-03-10T01:58:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bouton news.png</Source>
+      <Name>BoutonJouer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\BoutonJouer.xnb</Output>
+      <Time>2014-03-10T01:51:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bouton2news.png</Source>
+      <Name>BoutonOption</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\BoutonOption.xnb</Output>
+      <Time>2014-03-10T01:51:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bouton3news.png</Source>
+      <Name>BoutonQuitter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\BoutonQuitter.xnb</Output>
+      <Time>2014-03-10T01:51:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tourelle2.png</Source>
+      <Name>bouton range tourelle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\bouton range tourelle.xnb</Output>
+      <Time>2014-03-10T01:58:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tourelle6.png</Source>
+      <Name>powerTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\powerTower.xnb</Output>
+      <Time>2014-03-10T02:25:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tourelle7.png</Source>
+      <Name>rangeTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\rangeTower.xnb</Output>
+      <Time>2014-03-10T02:25:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>chateau.png</Source>
+      <Name>chateau</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\chateau.xnb</Output>
+      <Time>2014-03-10T04:25:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Map.png</Source>
+      <Name>Map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\Map.xnb</Output>
+      <Time>2014-03-10T19:42:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>transparent.png</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2014-03-10T19:43:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>terre droit.png</Source>
+      <Name>path</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\path.xnb</Output>
+      <Time>2014-03-10T19:47:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2014-03-10T19:51:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>coeur.png</Source>
+      <Name>vie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\vie.xnb</Output>
+      <Time>2014-03-10T19:56:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Warcraft 3 Soundtrack - Orc.mp3</Source>
+      <Name>01</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\01.xnb</Output>
+      <Extra>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\01.wma</Extra>
+      <Time>2014-03-10T22:48:02+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\RizzleContent\</RootDirectory>
+      <LoggerRootDirectory>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\</LoggerRootDirectory>
+      <IntermediateDirectory>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\RizzleContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-12-13T10:54:08.8772035+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

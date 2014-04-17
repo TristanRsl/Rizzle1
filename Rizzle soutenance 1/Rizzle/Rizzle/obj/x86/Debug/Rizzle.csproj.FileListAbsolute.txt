@@ -1,0 +1,59 @@
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Rizzle.exe
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Rizzle.pdb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\obj\x86\Debug\Rizzle.csprojResolveAssemblyReference.cache
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\obj\x86\Debug\Rizzle.exe
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\obj\x86\Debug\Rizzle.pdb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\grass.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\path.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\basicTower.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\powerTower.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\BoutonJouer.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\BoutonOption.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\BoutonQuitter.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\Write.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\gold.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\select.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\basicEnnemi.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\bouton basic tourelle.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\player.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\bouton power tourelle.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\bouton range tourelle.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\rangeTower.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\vie.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\chateau.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\Map.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\01.xnb
+C:\Users\Tristan.R\Documents\SUP RATTRAPAGES EPITA\Rizzle\Rizzle\Rizzle\bin\x86\Debug\Content\01.wma
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\obj\x86\Debug\Rizzle.exe
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\obj\x86\Debug\Rizzle.pdb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\Write.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\GameOver.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\bullet.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\select.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\gold.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\basicEnnemi.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\MainMenu.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\basicTower.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\bouton power tourelle.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\BoutonJouer.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\BoutonOption.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\BoutonQuitter.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\bouton range tourelle.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\powerTower.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\rangeTower.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\chateau.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\Map.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\grass.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\path.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\player.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\vie.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\01.xnb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Content\01.wma
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Rizzle.exe
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\bin\x86\Debug\Rizzle.pdb
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Bureau\Rizzle soutenance 1\Rizzle\Rizzle\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
